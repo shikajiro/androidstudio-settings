@@ -3,8 +3,8 @@
     <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>

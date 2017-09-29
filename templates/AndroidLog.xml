@@ -36,8 +36,8 @@
   </template>
   <template name="logt" value="//$ adb shell; setprop log.tag.class VERBOSE&#10;&#10;TimingLogger logger = new TimingLogger(&quot;class&quot;, &quot;method&quot;);&#10;&#10;logger.addSplit(&quot;split&quot;);&#10;&#10;logger.dumpToLog();&#10;" description="timing logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
   <template name="logi" value="Timber.i(&quot;$EXPR_COPY$ : %s&quot; + $EXPR$);" description="LOG.i(&quot; %s&quot;, $content$);" toReformat="true" toShortenFQNames="true">
