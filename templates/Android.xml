@@ -1,0 +1,12 @@
+<templateSet group="Android">
+  <template name="rgC" value="$resources$.getColor(R.color.$colorId$)" description="get a color from resources" toReformat="true" toShortenFQNames="true">
+    <variable name="resources" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="colorId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="picasso" value="Picasso.with(this).load().into();" description="picasso" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

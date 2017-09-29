@@ -1,0 +1,5 @@
+<templateSet group="Kotlin">
+  <template name="sub" value="subscribe({&#10;Timber.i(&quot;onNext&quot;)&#10;        },{&#10;Timber.e(it, &quot;onError&quot;)&#10;        },{&#10;Timber.i(&quot;onComplete&quot;)&#10;        })" description="subscribe" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

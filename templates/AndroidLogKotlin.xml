@@ -1,0 +1,7 @@
+<templateSet group="AndroidLogKotlin">
+  <template name="logi" value="Timber.i(&quot;$EXPR_COPY$ : ${$EXPR$}&quot;)" description="kotlin log info" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
