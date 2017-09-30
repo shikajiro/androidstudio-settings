@@ -1,7 +1,0 @@
-<templateSet group="html/xml">
-  <template name="divider" value="&lt;include layout=&quot;@layout/divider&quot;/&gt;" description="divider" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="XML_TEXT" value="true" />
-    </context>
-  </template>
-</templateSet>
