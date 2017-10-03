@@ -2,6 +2,7 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.aidl" value="AIDL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
