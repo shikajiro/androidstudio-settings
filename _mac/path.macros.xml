@@ -3,6 +3,6 @@
     <macro name="DOGLIFE_PRIVATE_KEY" value="/Users/shikajiro/Develop/android/develop.key" />
     <macro name="MAVEN_REPOSITORY" value="/Users/shikajiro/.m2/repository" />
     <macro name="ORG_GRADLE_PROJECT_DOGLIFE_PRIVATE_KEY" value="/Users/shikajiro/Develop/android/develop.key" />
-    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/shikajiro/Library/Application Support/AndroidStudio3.0/Kotlin/kotlinc" />
   </component>
 </application>
