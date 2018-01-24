@@ -1,10 +1,10 @@
 <templateSet group="AndroidLog">
-  <template name="timing" value="// 測定開始&#10;val logger = TimingLogger(&quot;TAG_TEST&quot;, &quot;testTimingLogger&quot;);&#10;&#10;// 処理1計測終了&#10;logger.addSplit(&quot;処理１&quot;);&#10;&#10;// 測定終了＋ログ出力&#10;logger.dumpToLog();" toReformat="false" toShortenFQNames="true">
+  <template name="timing" value="// 測定開始&#10;val logger = TimingLogger(&quot;TAG_TEST&quot;, &quot;testTimingLogger&quot;);&#10;&#10;// 処理1計測終了&#10;logger.addSplit(&quot;処理１&quot;);&#10;&#10;// 測定終了＋ログ出力&#10;logger.dumpToLog();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="timingj" value="// 測定開始&#10;TimingLogger logger = new TimingLogger(&quot;TAG_TEST&quot;, &quot;testTimingLogger&quot;);&#10;&#10;// 処理1計測終了&#10;logger.addSplit(&quot;処理１&quot;);&#10;&#10;// 測定終了＋ログ出力&#10;logger.dumpToLog();" toReformat="false" toShortenFQNames="true">
+  <template name="timingj" value="// 測定開始&#10;TimingLogger logger = new TimingLogger(&quot;TAG_TEST&quot;, &quot;testTimingLogger&quot;);&#10;&#10;// 処理1計測終了&#10;logger.addSplit(&quot;処理１&quot;);&#10;&#10;// 測定終了＋ログ出力&#10;logger.dumpToLog();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
