@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="EditorJoinLines" />
   <action id="EditorMatchBrace" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
