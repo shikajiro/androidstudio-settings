@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="ktlint " />
       <option name="PARAMETERS" value="-F $FilePath$" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
