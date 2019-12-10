@@ -9,6 +9,7 @@
       <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping ext="block" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="realm" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
