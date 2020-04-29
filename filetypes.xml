@@ -4,6 +4,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Pipfile" type="PLAIN_TEXT" />
       <mapping pattern="ProfileTab" type="PLAIN_TEXT" />
+      <mapping pattern=".credentials" type="PLAIN_TEXT" />
       <mapping pattern="aws" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="block" type="PLAIN_TEXT" />
