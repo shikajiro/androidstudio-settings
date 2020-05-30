@@ -1,20 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="Pipfile" type="PLAIN_TEXT" />
-      <mapping pattern="ProfileTab" type="PLAIN_TEXT" />
-      <mapping pattern="aws" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <mapping pattern=".credentials" type="PLAIN_TEXT" />
-      <mapping ext="block" type="PLAIN_TEXT" />
-      <mapping ext="tx" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="realm" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
