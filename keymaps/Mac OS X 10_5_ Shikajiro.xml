@@ -44,13 +44,13 @@
   <action id="MakeGradleModule">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
