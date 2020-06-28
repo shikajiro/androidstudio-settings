@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".direnv" type="PLAIN_TEXT" />
     </extensionMap>
