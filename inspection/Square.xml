@@ -1,5 +1,9 @@
-<inspections profile_name="Square" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Square" />
+  <inspection_tool class="DuplicatedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FallthruInSwitchStatement" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="InstalledPackageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ReferenceExistsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="UnnecessarySemicolon" enabled="true" level="ERROR" enabled_by_default="true" />
-</inspections>
+  <inspection_tool class="UnusedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+</profile>
