@@ -17,10 +17,13 @@
         <entry>setupkoin</entry>
         <entry>setup</entry>
         <entry>TODO</entry>
+        <entry>showp</entry>
+        <entry>progress</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
         <entry>set showmode</entry>
+        <entry>s/progress/next</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -88,18 +91,20 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" timestamp="1600282702512">
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="54" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" timestamp="1600285296514">
+        <mark key="'" line="119" column="1" />
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="392" column="0" />
+        <mark key="." line="392" column="0" />
+        <mark key="^" line="386" column="8" />
       </file>
       <file name="/DebugApp.kt" timestamp="1600098085827" />
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" timestamp="1600283039007">
-        <mark key="'" line="331" column="11" />
-        <mark key="[" line="520" column="92" />
-        <mark key="]" line="490" column="0" />
-        <mark key="." line="490" column="0" />
-        <mark key="^" line="491" column="42" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" timestamp="1600285239910">
+        <mark key="'" line="326" column="11" />
+        <mark key="[" line="204" column="8" />
+        <mark key="]" line="207" column="17" />
+        <mark key="." line="207" column="16" />
+        <mark key="^" line="207" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/debug/java/io/trustdock/app/application/di/resources/DomainModuleDebug.kt" timestamp="1600098231965" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" timestamp="1600098451610">
@@ -145,61 +150,82 @@
       <jump line="42" column="8" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" />
       <jump line="322" column="12" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
       <jump line="145" column="4" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
-      <jump line="322" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
       <jump line="331" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="121" column="4" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="142" column="30" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="335" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="326" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="112" column="50" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="199" column="56" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="220" column="20" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="336" column="67" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="341" column="67" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="217" column="0" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="322" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="408" column="49" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="355" column="31" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="363" column="67" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="364" column="7" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="454" column="54" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="501" column="55" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="500" column="15" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="325" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="121" column="1" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOeZuuWjsOebtOW+jOOBq+OBmeOBkOeUu+mdouOBjOWIh+OCiuabv+OCj+OCi+OBqOmBleWSjOaEn+OBjOOBguOCi+OBruOBp+OAgTHnp5LjgaDjgZHpn7Plo7DntZDmnpzjgpLooajnpLrjgZfjgabjgYvjgonnlLvpnaLmj4/nlLvjgZXjgZvjgabjgYTjgosK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93QWxsQ29tcGxldGUoVmVyaWZpY2F0aW9uU3VibWlzc2lvbkNvbXBsZXRpb24oZmFsc2UpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_progress</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>progress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9lcnJvck1lc3NhZ2UgPSBNdXRhYmxlTGl2ZURhdGE8U3RyaW5nPigpCiAgICB2YWwgZXJyb3JNZXNzYWdlOiBMaXZlRGF0YTxTdHJpbmc+ID0gX2Vycm9yTWVzc2FnZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOeZuuWjsOebtOW+jOOBq+OBmeOBkOeUu+mdouOBjOWIh+OCiuabv+OCj+OCi+OBqOmBleWSjOaEn+OBjOOBguOCi+OBruOBp+OAgTHnp5LjgaDjgZHpn7Plo7DntZDmnpzjgpLooajnpLrjgZfjgabjgYvjgonnlLvpnaLmj4/nlLvjgZXjgZvjgabjgYTjgosK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93QWxsQ29tcGxldGUoVmVyaWZpY2F0aW9uU3VibWlzc2lvbkNvbXBsZXRpb24oZmFsc2UpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sIDEwMDApCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRpbmcucm9vdC5wb3N0RGVsYXllZCh7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93UHJvZ3Jlc3MoKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93UHJvZ3Jlc3MoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93UHJvZ3Jlc3MoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKHsKICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmkoInNlbGZpZSBjb21wbGV0ZWQhIikKICAgICAgICAgICAgICAgICAgICAgICAgbmF2aWdhdG9yLmhpZGVQcm9ncmVzcygpCiAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93QWxsQ29tcGxldGUoVmVyaWZpY2F0aW9uU3VibWlzc2lvbkNvbXBsZXRpb24oZmFsc2UpKQogICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLncoaXQsICJlcnJvciEgc2VsZmllIGRvIG5vdCBjb21wbGV0ZWQuIikKICAgICAgICAgICAgICAgICAgICAgICAgbmF2aWdhdG9yLmhpZGVQcm9ncmVzcygpCiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGF0ZSA9IEVSUk9SCiAgICAgICAgICAgICAgICAgICAgfSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmkoInN1Y2Nlc3MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRvci5oaWRlUHJvZ3Jlc3MoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGF0ZSA9IERFVEVDVF9WT0lDRV9DT01QTEVURQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZShpdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYXZpZ2F0b3IuaGlkZVByb2dyZXNzKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwuc3RhdGUgPSBFUlJPUgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICApLmFkZFRvKGRpc3Bvc2FibGUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYXZpZ2F0b3IuaGlkZVByb2dyZXNzKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmkoInN1Y2Nlc3MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRvci5oaWRlUHJvZ3Jlc3MoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGF0ZSA9IERFVEVDVElOR19GQUNFU19USUxUX0NPTVBMRVRFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKGl0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRvci5oaWRlUHJvZ3Jlc3MoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGF0ZSA9IEVSUk9SCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICkuYWRkVG8oZGlzcG9zYWJsZSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYXZpZ2F0b3IuaGlkZVByb2dyZXNzKCkK</text>
+      </register>
       <register name=":" type="4">
-        <text>set showmode</text>
+        <text>s/progress/next</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>TODO</last-search>
+      <last-search>progress</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>progress</last-pattern>
+      <last-replace>next</last-replace>
+      <last-substitute>progress</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
