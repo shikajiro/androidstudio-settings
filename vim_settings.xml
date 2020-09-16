@@ -16,6 +16,7 @@
         <entry>subsc</entry>
         <entry>setupkoin</entry>
         <entry>setup</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>showmode</entry>
@@ -57,6 +58,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
@@ -84,18 +88,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" timestamp="1600098220156">
-        <mark key="[" line="324" column="5" />
-        <mark key="]" line="324" column="5" />
-        <mark key="." line="324" column="4" />
-        <mark key="^" line="324" column="5" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" timestamp="1600282702512">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="54" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="/DebugApp.kt" timestamp="1600098085827" />
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" timestamp="1600097799971">
-        <mark key="'" line="474" column="25" />
-        <mark key="[" line="509" column="0" />
-        <mark key="]" line="509" column="0" />
-        <mark key="." line="509" column="0" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" timestamp="1600283039007">
+        <mark key="'" line="331" column="11" />
+        <mark key="[" line="520" column="92" />
+        <mark key="]" line="490" column="0" />
+        <mark key="." line="490" column="0" />
+        <mark key="^" line="491" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/debug/java/io/trustdock/app/application/di/resources/DomainModuleDebug.kt" timestamp="1600098231965" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" timestamp="1600098451610">
@@ -104,9 +108,10 @@
         <mark key="]" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/allcomplete/AllCompleteViewModel.kt" timestamp="1600281394594" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/infrastructure/src/main/java/io/trustdock/app/infrastructure/datasource/VerificationSubmissionApiDataSource.kt" timestamp="1600282056014" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/domain/src/main/java/io/trustdock/app/domain/model/VerificationSubmission.kt" timestamp="1600096403779" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.3.0-alpha06/12b286ee5654e75e8391f9de6b7e35a6a155afd6/fragment-1.3.0-alpha06-sources.jar!/androidx/fragment/app/BackStackRecord.java" timestamp="1600096967523" />
-      <file name="/StepProgressViewModel.kt" timestamp="1600096231729" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/Navigator.kt" timestamp="1600097134819">
         <mark key="[" line="336" column="12" />
         <mark key="]" line="334" column="30" />
@@ -114,6 +119,12 @@
         <mark key="." line="334" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.3.0-alpha06/12b286ee5654e75e8391f9de6b7e35a6a155afd6/fragment-1.3.0-alpha06-sources.jar!/androidx/fragment/app/DialogFragment.java" timestamp="1600096955124" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/debug/java/io/trustdock/app/domain/usecase/normal/SelfieShootingUseCaseDebugImpl.kt" timestamp="1600282297306">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="27" column="45" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.3.0-alpha06/12b286ee5654e75e8391f9de6b7e35a6a155afd6/fragment-1.3.0-alpha06-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1600097000346" />
     </filemarks>
     <jumps>
@@ -132,45 +143,52 @@
       <jump line="53" column="0" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" />
       <jump line="54" column="16" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" />
       <jump line="42" column="8" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" />
+      <jump line="322" column="12" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="145" column="4" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="322" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
+      <jump line="331" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOeZuuWjsOebtOW+jOOBq+OBmeOBkOeUu+mdouOBjOWIh+OCiuabv+OCj+OCi+OBqOmBleWSjOaEn+OBjOOBguOCi+OBruOBp+OAgTHnp5LjgaDjgZHpn7Plo7DntZDmnpzjgpLooajnpLrjgZfjgabjgYvjgonnlLvpnaLmj4/nlLvjgZXjgZvjgabjgYTjgosK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWujOS6huW+jOOBmeOBkOOBq+mBt+enu+OBmeOCi+OBqOmBleWSjOaEn+OBjOOBguOCi+OBruOBp+OAgTHnp5LjgaDjgZHpgYXlu7bjgZXjgZvjgabjgYTjgosK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOeZuuWjsOebtOW+jOOBq+OBmeOBkOeUu+mdouOBjOWIh+OCiuabv+OCj+OCi+OBqOmBleWSjOaEn+OBjOOBguOCi+OBruOBp+OAgTHnp5LjgaDjgZHpn7Plo7DntZDmnpzjgpLooajnpLrjgZfjgabjgYvjgonnlLvpnaLmj4/nlLvjgZXjgZvjgabjgYTjgosK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LCAxMDAwKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0sIDEwMDApCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRpbmcucm9vdC5wb3N0RGVsYXllZCh7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRpbmcucm9vdC5wb3N0RGVsYXllZGRkKHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93UHJvZ3Jlc3MoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set showmode</text>
@@ -179,9 +197,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setup</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
