@@ -73,13 +73,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/Dev_App.kt" timestamp="1600098403321" />
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/stepprogress/StepProgressFragment.kt" timestamp="1600096270837">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="63" column="83" />
-        <mark key="]" line="63" column="83" />
-        <mark key="^" line="63" column="83" />
-        <mark key="." line="63" column="82" />
-      </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/di/ViewModelModule.kt" timestamp="1600098197162">
         <mark key="[" line="77" column="57" />
         <mark key="]" line="77" column="57" />
@@ -91,21 +84,22 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" timestamp="1600285296514">
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" timestamp="1600286850247">
         <mark key="'" line="119" column="1" />
-        <mark key="[" line="392" column="0" />
-        <mark key="]" line="392" column="0" />
-        <mark key="." line="392" column="0" />
-        <mark key="^" line="386" column="8" />
+        <mark key="[" line="96" column="64" />
+        <mark key="]" line="320" column="13" />
+        <mark key="." line="320" column="12" />
+        <mark key="^" line="320" column="13" />
       </file>
       <file name="/DebugApp.kt" timestamp="1600098085827" />
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" timestamp="1600285239910">
-        <mark key="'" line="326" column="11" />
-        <mark key="[" line="204" column="8" />
-        <mark key="]" line="207" column="17" />
-        <mark key="." line="207" column="16" />
-        <mark key="^" line="207" column="17" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" timestamp="1600286510782">
+        <mark key="'" line="331" column="11" />
+        <mark key="[" line="220" column="43" />
+        <mark key="]" line="433" column="16" />
+        <mark key="^" line="208" column="17" />
+        <mark key="." line="433" column="16" />
       </file>
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/camera/CameraLifecycle.kt" timestamp="1600286377085" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/debug/java/io/trustdock/app/application/di/resources/DomainModuleDebug.kt" timestamp="1600098231965" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" timestamp="1600098451610">
         <mark key="'" line="42" column="8" />
@@ -115,7 +109,6 @@
       </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/allcomplete/AllCompleteViewModel.kt" timestamp="1600281394594" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/infrastructure/src/main/java/io/trustdock/app/infrastructure/datasource/VerificationSubmissionApiDataSource.kt" timestamp="1600282056014" />
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/domain/src/main/java/io/trustdock/app/domain/model/VerificationSubmission.kt" timestamp="1600096403779" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.3.0-alpha06/12b286ee5654e75e8391f9de6b7e35a6a155afd6/fragment-1.3.0-alpha06-sources.jar!/androidx/fragment/app/BackStackRecord.java" timestamp="1600096967523" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/Navigator.kt" timestamp="1600097134819">
         <mark key="[" line="336" column="12" />
@@ -131,6 +124,9 @@
         <mark key="." line="27" column="45" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.3.0-alpha06/12b286ee5654e75e8391f9de6b7e35a6a155afd6/fragment-1.3.0-alpha06-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1600097000346" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/res/layout/fragment_shooting_normal_camera_selfie.xml" timestamp="1600286551009">
+        <mark key="[" line="96" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="511" column="22" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
@@ -175,11 +171,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93QWxsQ29tcGxldGUoVmVyaWZpY2F0aW9uU3VibWlzc2lvbkNvbXBsZXRpb24oZmFsc2UpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>LiveData</text>
       </register>
       <register name="-" type="4">
-        <text>_progress</text>
+        <text>LiveData</text>
       </register>
       <register name="/" type="4">
         <text>progress</text>
@@ -188,31 +184,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9lcnJvck1lc3NhZ2UgPSBNdXRhYmxlTGl2ZURhdGE8U3RyaW5nPigpCiAgICB2YWwgZXJyb3JNZXNzYWdlOiBMaXZlRGF0YTxTdHJpbmc+ID0gX2Vycm9yTWVzc2FnZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93QWxsQ29tcGxldGUoVmVyaWZpY2F0aW9uU3VibWlzc2lvbkNvbXBsZXRpb24oZmFsc2UpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93UHJvZ3Jlc3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93UHJvZ3Jlc3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0YXRlTGl2ZURhdGEudmFsdWUgPSB2YWx1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93UHJvZ3Jlc3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g44K544OG44O844OI44KSVUnjgavlj43mmKDjgZXjgZvjgosK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKHsKICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmkoInNlbGZpZSBjb21wbGV0ZWQhIikKICAgICAgICAgICAgICAgICAgICAgICAgbmF2aWdhdG9yLmhpZGVQcm9ncmVzcygpCiAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zaG93QWxsQ29tcGxldGUoVmVyaWZpY2F0aW9uU3VibWlzc2lvbkNvbXBsZXRpb24oZmFsc2UpKQogICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLncoaXQsICJlcnJvciEgc2VsZmllIGRvIG5vdCBjb21wbGV0ZWQuIikKICAgICAgICAgICAgICAgICAgICAgICAgbmF2aWdhdG9yLmhpZGVQcm9ncmVzcygpCiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGF0ZSA9IEVSUk9SCiAgICAgICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB2YWx1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmkoInN1Y2Nlc3MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRvci5oaWRlUHJvZ3Jlc3MoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGF0ZSA9IERFVEVDVF9WT0lDRV9DT01QTEVURQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZShpdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYXZpZ2F0b3IuaGlkZVByb2dyZXNzKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aWV3TW9kZWwuc3RhdGUgPSBFUlJPUgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICApLmFkZFRvKGRpc3Bvc2FibGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIiRmaWVsZCAtPiAkdmFsdWUiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYXZpZ2F0b3IuaGlkZVByb2dyZXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmkoInN1Y2Nlc3MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRvci5oaWRlUHJvZ3Jlc3MoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGF0ZSA9IERFVEVDVElOR19GQUNFU19USUxUX0NPTVBMRVRFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKGl0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRvci5oaWRlUHJvZ3Jlc3MoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5zdGF0ZSA9IEVSUk9SCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICkuYWRkVG8oZGlzcG9zYWJsZSkK</text>
+        <text encoding="base64">ICAgIHZhciBzdGF0ZTogU2VsZmllUmVjb3JkaW5nU3RhdGUgPSBERVRFQ1RJTkdfRkFDRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYXZpZ2F0b3IuaGlkZVByb2dyZXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/progress/next</text>
