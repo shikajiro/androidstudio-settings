@@ -92,14 +92,14 @@
         <mark key="^" line="320" column="13" />
       </file>
       <file name="/DebugApp.kt" timestamp="1600098085827" />
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" timestamp="1600287016336">
-        <mark key="'" line="331" column="11" />
-        <mark key="[" line="220" column="43" />
-        <mark key="]" line="433" column="16" />
-        <mark key="^" line="208" column="17" />
-        <mark key="." line="433" column="16" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" timestamp="1600339124553">
+        <mark key="'" line="163" column="12" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="160" column="51" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/camera/CameraLifecycle.kt" timestamp="1600286377085" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/camera/CameraLifecycle.kt" timestamp="1600339141157" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/debug/java/io/trustdock/app/application/di/resources/DomainModuleDebug.kt" timestamp="1600098231965" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" timestamp="1600098451610">
         <mark key="'" line="42" column="8" />
@@ -167,15 +167,16 @@
       <jump line="500" column="15" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
       <jump line="325" column="11" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
       <jump line="121" column="1" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" />
+      <jump line="164" column="12" filename="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalCameraSelfieFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>LiveData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>LiveData</text>
+        <text>.apply {</text>
       </register>
       <register name="/" type="4">
         <text>progress</text>
@@ -184,31 +185,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9lcnJvck1lc3NhZ2UgPSBNdXRhYmxlTGl2ZURhdGE8U3RyaW5nPigpCiAgICB2YWwgZXJyb3JNZXNzYWdlOiBMaXZlRGF0YTxTdHJpbmc+ID0gX2Vycm9yTWVzc2FnZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOmMsueUu+S4reOBquOCiemMsueUu+WBnOatouOBl+OBpuODreOCsOWHuuWKm+OBmeOCi+OAggogICAgICAgICAgICAgICAgLy8g5pys5p2l44Gv5qSc55+l57WC5LqG5pmC44Gr6KGM44GG44CCCiAgICAgICAgICAgICAgICAvLyDkvos6IGBgYAogICAgICAgICAgICAgICAgLy8gbGlmZWN5Y2xlU2NvcGUubGF1bmNoIHsKICAgICAgICAgICAgICAgIC8vICAgICB0cnkgewogICAgICAgICAgICAgICAgLy8gICAgICAgICB2YWwgZmlsZSA9IGNhbWVyYUxpZmVjeWNsZS5zdG9wUmVjb3JkaW5nKCkKICAgICAgICAgICAgICAgIC8vICAgICAgICAgLy8g5L+d5a2Y44GX44Gf44OV44Kh44Kk44Or44Gu6YCB5L+h44Gq44GpCiAgICAgICAgICAgICAgICAvLyAgICAgfSBjYXRjaCAoZTogUmVjb3JkaW5nRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIC8vIOmMsueUu+WkseaVl+OAguaXqeOBmeOBjuOCi+WBnOatouaZguOChOOAgeS9leOCieOBi+OBrueKtuaFi+eVsOW4uOaZguOBquOBqeOAguaZrumAmuOBq+aPkOWHuuWHpueQhuOCkuOBl+OBpuOBhOOBn+OCiei1t+OBk+OCieOBquOBhOOBr+OBmuOBoOOBjOOAgQogICAgICAgICAgICAgICAgLy8gICAgICAgICAvLyDnq6/mnKvjgYzph43jgYTmmYLjga/otbfjgZPjgorjgYbjgovjga7jgafjgIHjgqjjg6njg7zjga7loLTlkIjjga/mj5Dlh7rjgpLjgoTjgornm7TjgZfjgabjgoLjgonjgYbjga7jgYzjgojjgZXjgZ3jgYbjgafjgZnjgIIKICAgICAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgICAgICAvLyB9CiAgICAgICAgICAgICAgICAvLyBgYGAKICAgICAgICAgICAgICAgIC8vIG9uU3RvcOOBp3N0b3BSZWNvcmRpbmfjgZnjgovloLTlkIjjgIFjbG9zZUNhbWVyYeWJjeOBq+mMsueUu+WBnOatouOBl+OBjeOCieOBquOBkeOCjOOBsOOBquOCieOBmuOAgWNsb3NlQ2FtZXJh5YaF44Gn44KCcnVuQmxvY2tpbmfjgpLkvb/jgaPjgabjgYTjgaZsYXVuY2jjgajlubLmuInjgZfjgZ3jgYbjgarjga7jgafjgIHljZjkvZMgcnVuQmxvY2tpbmcg44GX44Gm44GE44G+44GZ44CCCiAgICAgICAgICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0YXRlTGl2ZURhdGEudmFsdWUgPSB2YWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44K544OG44O844OI44KSVUnjgavlj43mmKDjgZXjgZvjgosK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0YXRlTGl2ZURhdGEudmFsdWUgPSB2YWx1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIiRmaWVsZCAtPiAkdmFsdWUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g44K544OG44O844OI44KSVUnjgavlj43mmKDjgZXjgZvjgosK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB2YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBzdGF0ZTogU2VsZmllUmVjb3JkaW5nU3RhdGUgPSBERVRFQ1RJTkdfRkFDRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIiRmaWVsZCAtPiAkdmFsdWUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>s/progress/next</text>
