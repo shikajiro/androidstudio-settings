@@ -80,7 +80,7 @@
       </file>
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0005.csv" timestamp="1600499647231" />
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0000.csv" timestamp="1600434706926" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/Response.kt" timestamp="1600476184106">
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/Response.kt" timestamp="1600502368575">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="37" />
         <mark key="." line="6" column="37" />
@@ -129,10 +129,10 @@
         <mark key="^" line="105" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0006.csv" timestamp="1600499469701" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/serverless.yml" timestamp="1600500794585">
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/serverless.yml" timestamp="1600502363769">
+        <mark key="[" line="183" column="50" />
+        <mark key="]" line="183" column="51" />
+        <mark key="." line="183" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/res/layout/fragment_shooting_normal_camera_selfie.xml" timestamp="1600342470754">
         <mark key="[" line="55" column="0" />
@@ -152,7 +152,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBXcml0ZUNhcGFjaXR5VW5pdHM6IDEK</text>
+        <text encoding="base64">ICAgICAgICAgIFdyaXRlQ2FwYWNpdHlVbml0czogMTAwMDAK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -164,13 +164,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbmRleE5hbWUoImdsb2JhbEluZGV4MSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBXcml0ZUNhcGFjaXR5VW5pdHM6IDEK</text>
+        <text encoding="base64">ICAgICAgICAgIFdyaXRlQ2FwYWNpdHlVbml0czogMTAwMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBSZWFkQ2FwYWNpdHlVbml0czogMQo=</text>
+        <text encoding="base64">ICAgICAgICAgIFJlYWRDYXBhY2l0eVVuaXRzOiAxMDAwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBQcm92aXNpb25lZFRocm91Z2hwdXQ6Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBXcml0ZUNhcGFjaXR5VW5pdHM6IDEK</text>
@@ -182,13 +182,13 @@
         <text encoding="base64">ICAgICAgICAgICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gSW5kZXhOYW1lOiBnbG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBXcml0ZUNhcGFjaXR5VW5pdHM6IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gQXR0cmlidXRlTmFtZTogZGF0ZXRpbWUKICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBSZWFkQ2FwYWNpdHlVbml0czogMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2V5VHlwZTogUkFOR0UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>s/progress/next</text>
