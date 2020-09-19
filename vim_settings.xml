@@ -124,8 +124,8 @@
       </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/allcomplete/AllCompleteViewModel.kt" timestamp="1600281394594" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/infrastructure/src/main/java/io/trustdock/app/infrastructure/datasource/VerificationSubmissionApiDataSource.kt" timestamp="1600282056014" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/serverless.yml" timestamp="1600473886754">
-        <mark key="[" line="194" column="0" />
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/serverless.yml" timestamp="1600474536499">
+        <mark key="[" line="194" column="34" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
