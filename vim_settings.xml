@@ -79,7 +79,15 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0000.csv" timestamp="1600434706926" />
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/Dev_App.kt" timestamp="1600098403321" />
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/Response.kt" timestamp="1600476184106">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/handler/AverageHourHandler.kt" timestamp="1600476336010">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="42" />
+      </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/normal/selfie/ShootingNormalSelfieViewModel.kt" timestamp="1600342281101">
         <mark key="'" line="348" column="0" />
         <mark key="[" line="433" column="26" />
@@ -94,22 +102,16 @@
         <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/camera/CameraLifecycle.kt" timestamp="1600339141157" />
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/application/App.kt" timestamp="1600098451610">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="4" />
-        <mark key="." line="54" column="4" />
-      </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/debug/java/io/trustdock/app/domain/usecase/normal/SelfieShootingUseCaseDebugImpl.kt" timestamp="1600282297306">
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="46" />
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/README.md" timestamp="1600434737693">
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/README.md" timestamp="1600477504876">
         <mark key="[" line="24" column="0" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/import_csv_batch.main.kts" timestamp="1600435219372">
         <mark key="[" line="20" column="13" />
@@ -124,10 +126,16 @@
       </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/allcomplete/AllCompleteViewModel.kt" timestamp="1600281394594" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/infrastructure/src/main/java/io/trustdock/app/infrastructure/datasource/VerificationSubmissionApiDataSource.kt" timestamp="1600282056014" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/serverless.yml" timestamp="1600474536499">
-        <mark key="[" line="194" column="34" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/handler/AverageHourBatchHandler.kt" timestamp="1600476346312">
+        <mark key="[" line="106" column="35" />
+        <mark key="]" line="106" column="36" />
+        <mark key="." line="106" column="36" />
+        <mark key="^" line="105" column="38" />
+      </file>
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/serverless.yml" timestamp="1600476816448">
+        <mark key="[" line="205" column="24" />
+        <mark key="]" line="205" column="25" />
+        <mark key="." line="205" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/res/layout/fragment_shooting_normal_camera_selfie.xml" timestamp="1600342470754">
         <mark key="[" line="55" column="0" />
@@ -135,55 +143,55 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split00000.csv" timestamp="1600434380375" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/handler/ImportCsvS3Handler.kt" timestamp="1600434021490">
-        <mark key="[" line="80" column="36" />
-        <mark key="]" line="80" column="36" />
-        <mark key="^" line="78" column="22" />
-        <mark key="." line="80" column="36" />
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/handler/ImportCsvS3Handler.kt" timestamp="1600477521973">
+        <mark key="[" line="81" column="36" />
+        <mark key="]" line="81" column="36" />
+        <mark key="^" line="80" column="22" />
+        <mark key="." line="81" column="36" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2V5VHlwZTogUkFOR0UK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>progress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9lcnJvck1lc3NhZ2UgPSBNdXRhYmxlTGl2ZURhdGE8U3RyaW5nPigpCiAgICB2YWwgZXJyb3JNZXNzYWdlOiBMaXZlRGF0YTxTdHJpbmc+ID0gX2Vycm9yTWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbmRleE5hbWUoImdsb2JhbEluZGV4MSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2V5VHlwZTogUkFOR0UK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gSW5kZXhOYW1lOiBnbG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gQXR0cmlidXRlTmFtZTogZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gQXR0cmlidXRlTmFtZTogZGF0ZXRpbWUKICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogUwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LmxvZ2dlci5sb2coInJlcXVlc3RMaXN0IHNpemUgJHtyZXF1ZXN0TGlzdC5zaXplfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgS2V5VHlwZTogUkFOR0UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRvTGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gQXR0cmlidXRlTmFtZTogZGF0ZXRpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmxvZ2dlci5sb2coInJlcXVlc3RMaXN0IHNpemUgJHtyZXF1ZXN0TGlzdC5zaXplfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGRlbGF5KDUwMDApCiAgICAgICAgICAgICAgICBpZiAocmVxdWVzdExpc3QuYWxsIHsgaXQuaXNEb25lIH0pIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmxvZ2dlci5sb2coInJlcXVlc3RMaXN0IGFsbCBkb25lIikKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvTGlzdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydW5CbG9ja2luZyB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGRlbGF5KDUwMDApCiAgICAgICAgICAgICAgICBpZiAocmVxdWVzdExpc3QuYWxsIHsgaXQuaXNEb25lIH0pIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmxvZ2dlci5sb2coInJlcXVlc3RMaXN0IGFsbCBkb25lIikKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5CbG9ja2luZyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/progress/next</text>
