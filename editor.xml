@@ -1,4 +1,7 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+  </component>
   <component name="PythonFoldingSettings">
     <option name="COLLAPSE_LONG_STRINGS" value="true" />
     <option name="COLLAPSE_LONG_COLLECTIONS" value="true" />
