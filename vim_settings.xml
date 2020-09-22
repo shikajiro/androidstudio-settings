@@ -78,8 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0005.csv" timestamp="1600499647231" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0000.csv" timestamp="1600434706926" />
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/Response.kt" timestamp="1600502368575">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="37" />
@@ -105,34 +103,26 @@
         <mark key="]" line="457" column="0" />
         <mark key="." line="457" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Handler.java" timestamp="1600750545872" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/README.md" timestamp="1600477504876">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/import_csv_batch.main.kts" timestamp="1600435219372">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/ImageReader.java" timestamp="1600752922834" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Looper.java" timestamp="1600750950473" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/MessageQueue.java" timestamp="1600751958389" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0028.csv" timestamp="1600499711354" />
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/handler/AverageHourBatchHandler.kt" timestamp="1600476346312">
         <mark key="[" line="106" column="35" />
         <mark key="]" line="106" column="36" />
         <mark key="." line="106" column="36" />
         <mark key="^" line="105" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0006.csv" timestamp="1600499469701" />
-      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/serverless.yml" timestamp="1600502363769">
-        <mark key="[" line="183" column="50" />
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/serverless.yml" timestamp="1600766753903">
         <mark key="]" line="183" column="51" />
         <mark key="." line="183" column="51" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/detector/FirebaseDetector.kt" timestamp="1600754569302" />
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/README.md" timestamp="1600477504876">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/import_csv_batch.main.kts" timestamp="1600766976011">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+      </file>
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/handler/ImportCsvS3Handler.kt" timestamp="1600500767299">
         <mark key="[" line="81" column="36" />
         <mark key="]" line="81" column="36" />
@@ -145,10 +135,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>progress</text>
