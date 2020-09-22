@@ -102,9 +102,12 @@
         <mark key="^" line="157" column="51" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/camera/CameraLifecycle.kt" timestamp="1600745209197">
-        <mark key="[" line="461" column="24" />
+      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/shooting/camera/CameraLifecycle.kt" timestamp="1600750583466">
+        <mark key="[" line="457" column="45" />
+        <mark key="]" line="457" column="0" />
+        <mark key="." line="457" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Handler.java" timestamp="1600750545872" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/debug/java/io/trustdock/app/domain/usecase/normal/SelfieShootingUseCaseDebugImpl.kt" timestamp="1600282297306">
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="46" />
@@ -121,7 +124,6 @@
         <mark key="]" line="20" column="13" />
         <mark key="." line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/app/src/main/java/io/trustdock/app/presentation/verification/allcomplete/AllCompleteViewModel.kt" timestamp="1600281394594" />
       <file name="$USER_HOME$/Develop/github.com/TRUSTDOCK/PCSI-Android/infrastructure/src/main/java/io/trustdock/app/infrastructure/datasource/VerificationSubmissionApiDataSource.kt" timestamp="1600282056014" />
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/scripts/temp/split0028.csv" timestamp="1600499711354" />
       <file name="$USER_HOME$/Develop/github.com/shikajiro/ichigo/serverless/src/main/kotlin/com/ichigo/handler/AverageHourBatchHandler.kt" timestamp="1600476346312">
@@ -154,7 +156,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFdyaXRlQ2FwYWNpdHlVbml0czogMTAwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlUmVhZGVyQmFja2dyb3VuZEhhbmRsZXIuCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -166,31 +168,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbmRleE5hbWUoImdsb2JhbEluZGV4MSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFdyaXRlQ2FwYWNpdHlVbml0czogMTAwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlUmVhZGVyQmFja2dyb3VuZEhhbmRsZXIuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJlYWRDYXBhY2l0eVVuaXRzOiAxMDAwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgIFdyaXRlQ2FwYWNpdHlVbml0czogMTAwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcm92aXNpb25lZFRocm91Z2hwdXQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlYWRDYXBhY2l0eVVuaXRzOiAxMDAwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBXcml0ZUNhcGFjaXR5VW5pdHM6IDEK</text>
+        <text encoding="base64">ICAgICAgICBQcm92aXNpb25lZFRocm91Z2hwdXQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBSZWFkQ2FwYWNpdHlVbml0czogMQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0Ogo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBXcml0ZUNhcGFjaXR5VW5pdHM6IDEK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBSZWFkQ2FwYWNpdHlVbml0czogMQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0Ogo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBXcml0ZUNhcGFjaXR5VW5pdHM6IDEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBSZWFkQ2FwYWNpdHlVbml0czogMQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/progress/next</text>
