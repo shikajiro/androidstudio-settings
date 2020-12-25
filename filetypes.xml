@@ -12,6 +12,7 @@
       <mapping pattern="Dockerfile-Notebook" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping pattern=".direnv" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignote" type="PLAIN_TEXT" />
       <mapping pattern="activity_fish_record" type="XML" />
     </extensionMap>
   </component>
