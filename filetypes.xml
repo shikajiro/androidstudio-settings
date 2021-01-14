@@ -12,6 +12,7 @@
       <mapping pattern="Dockerfile-Notebook" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignote" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
+      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping pattern="activity_fish_record" type="XML" />
       <mapping ext="batch" type="Dockerfile" />
       <mapping pattern="Dockerfile-notebook" type="Dockerfile" />
