@@ -10,6 +10,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-Notebook" type="PLAIN_TEXT" />
+      <mapping pattern="django" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping pattern=".direnv" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignote" type="PLAIN_TEXT" />
