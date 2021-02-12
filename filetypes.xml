@@ -15,6 +15,7 @@
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping pattern=".direnv" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignote" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="lprof" type="PLAIN_TEXT" />
       <mapping pattern="activity_fish_record" type="XML" />
     </extensionMap>
