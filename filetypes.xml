@@ -4,6 +4,7 @@
       <mapping pattern="batch-Dockerfile" type="App Engine Dockerfile Template" />
       <mapping pattern="Dockerfile-notebook" type="Dockerfile" />
       <mapping ext="batch" type="Dockerfile" />
+      <mapping ext="jsonl" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="data" type="PLAIN_TEXT" />
