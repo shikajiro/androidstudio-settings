@@ -1,23 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="batch-Dockerfile" type="App Engine Dockerfile Template" />
+      <mapping pattern="Dockerfile-notebook" type="Dockerfile" />
+      <mapping ext="batch" type="Dockerfile" />
+      <mapping ext="jsonl" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-Notebook" type="PLAIN_TEXT" />
+      <mapping pattern="django" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping pattern=".direnv" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="PLAIN_TEXT" />
-      <mapping pattern="django" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-Notebook" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignote" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_local" type="PLAIN_TEXT" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="lprof" type="PLAIN_TEXT" />
       <mapping pattern="activity_fish_record" type="XML" />
-      <mapping ext="batch" type="Dockerfile" />
-      <mapping pattern="Dockerfile-notebook" type="Dockerfile" />
-      <mapping pattern="batch-Dockerfile" type="App Engine Dockerfile Template" />
     </extensionMap>
   </component>
 </application>
