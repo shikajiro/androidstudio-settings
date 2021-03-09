@@ -19,6 +19,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="lprof" type="PLAIN_TEXT" />
       <mapping pattern="activity_fish_record" type="XML" />
+      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
