@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res-ui/post/layout/fragment_post.xml" value="0.1" />
+        <entry key="app/src/main/res-ui/widget/layout/view_post_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
